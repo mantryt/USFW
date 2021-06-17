@@ -16,6 +16,7 @@ Ultimate Scanner for websites
 4) About USFW
 5) DDos Attack
 6)SqlInjection
+7)Update
 """)
 WhatDoYouWant = input("Choose a Number")
 
@@ -48,3 +49,8 @@ elif WhatDoYouWant=="6":
 	os.system("figlet Done!!!")
 
 
+elif WhatDoYouWant=="7":
+	os.system("git clone https://github.com/mantryt/USFW")
+	os.system("clear")
+	os.system("figlet Updated")
+ 
