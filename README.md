@@ -2,6 +2,7 @@
 Ultimate Scanner For Websites
 
 How to use ?
+
 pyhton3 USFW.py
 
 1. Basic info about the website 
@@ -15,3 +16,14 @@ pyhton3 USFW.py
 
 
 3. Version info about the site
+
+
+What's New 1.1
+
+Ddos attack wia hammer
+
+What's new 1.2
+Sql Payload
+
+What's new 1.3
+Otomatik Update
