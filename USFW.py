@@ -1,3 +1,4 @@
+
 #!/usr/bin/env  python3
 
 
@@ -18,7 +19,7 @@ Ultimate Scanner for websites
 6)SqlInjection
 7)Update
 """)
-WhatDoYouWant = input("Choose a Number")
+WhatDoYouWant = input("Choose a Number:")
 
 if WhatDoYouWant=="1":
 	os.system("clear")
@@ -53,4 +54,6 @@ elif WhatDoYouWant=="7":
 	os.system("git clone https://github.com/mantryt/USFW")
 	os.system("clear")
 	os.system("figlet Updated")
- 
+
+else:
+	print("Error")
